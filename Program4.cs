@@ -20,6 +20,8 @@ namespace Ayushi_PJT
                 }
                 Console.WriteLine();
             }
+
+            Console.Read();
         }
     }
 }
