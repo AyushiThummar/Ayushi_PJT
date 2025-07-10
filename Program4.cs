@@ -12,6 +12,16 @@ namespace Ayushi_PJT
         {
             for (int i = 1; i <= 9; i++)
             {
+                // Using if-else
+                int k;
+                if (i <= 5)
+                    k = 1;
+                else
+                    k = 10 - i;
+
+                // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                // Using ternary operator
                 int s = i <= 5 ? i : 10 - i;
 
                 for (int j = 1; j <= s; j++)
