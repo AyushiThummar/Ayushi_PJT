@@ -63,7 +63,7 @@ namespace Ayushi_PJT
             //res = 6 + 5 + 6 + 6 + 8 + 8 + 8
             Console.WriteLine(res);
 
-
+            Connsole.Read();
         }
     }
 }
