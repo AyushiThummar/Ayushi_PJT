@@ -10,17 +10,17 @@ namespace Ayushi_PJT
             {
                 for (int j = 1; j <= 3; j++)
                 {
-                    if (i == 2 & j == 2)
+                    if (i == 2 && j == 2)
                     {
-                        Console.Write(1 + " ");
+                        Console.Write("1 ");
                     }
-                    if (i == 3 & j == 2)
+                    else if (i == 3 && j == 2)
                     {
-                        Console.Write(2 + " ");
+                        Console.Write("2 ");
                     }
                     else
                     {
-                        Console.Write(3 + " ");
+                        Console.Write("3 ");
                     }
                 }
                 Console.WriteLine();
