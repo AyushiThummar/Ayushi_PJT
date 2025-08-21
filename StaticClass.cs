@@ -51,7 +51,6 @@ namespace Ayushi_PJT
             //StudentDetails.Display();   // non static method.
 
 
-
             // To create object of a class.
             // To call methods, constructors, etc.
             // To assign values or calculate values for data members.
