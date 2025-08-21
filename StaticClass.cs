@@ -50,7 +50,7 @@ namespace Ayushi_PJT
             //// 3) You can not call non static methods with class name.
             //StudentDetails.Display();   // non static method.
 
-
+            // Note:   
             // To create object of a class.
             // To call methods, constructors, etc.
             // To assign values or calculate values for data members.
